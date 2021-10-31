@@ -86,3 +86,30 @@ body {
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
 }
+
+/* Footer */
+
+#footer {
+    width: 100%;
+    background: #3C495E;
+    height: 60px;
+    text-align: center;
+    color: #fff;
+    padding: 1px;
+}
+
+#footer .footer-info {
+    margin-top: 20px;
+}
+
+#footer .footer-info p {
+    font-size: 18px;
+}
+
+#footer .fa-heart {
+    color: #D52A2A;
+}
+
+#footer .fa-coffee {
+    color: #f9ab25;
+}
